@@ -3,15 +3,10 @@
 # 机器学习基础
 
 - [《PRML模式识别与机器学习》Christopher Bishop](https://pan.baidu.com/s/1ZA_rVnG22Yv-mrpLCNRqZg) 提取码:qmnh
-
 - [《机器学习》Tom M.Mitchell](https://pan.baidu.com/s/1Zh_psZz5uFlT9xLl-b9rwg) 提取码:1cur
-
 - [《机器学习实战》Peter Harrington](https://pan.baidu.com/s/19UVBADUfpFn9MrIgN--HmA) 提取码:hdaa
-
 - [《机器学习：概率学的观点 Machine Learning A Probabilistic Perspective》Kevin P·Murphy](https://pan.baidu.com/s/1GbRHzIpHjhjq77ahSfeZNg) 提取码:obic
-
 - [《Maching Learning Yearning》吴恩达](https://pan.baidu.com/s/1wIzoS8s3U774sCn-NZLQZg) 提取码:7bmg
-
 - [《机器学习》西瓜书 周志华](https://pan.baidu.com/s/1fm-Phv-36YfAXjwruEVJdg) 提取码:4bik
 - [《统计学习方法》蓝宝书 李航](https://pan.baidu.com/s/18__1mReqaurq0gxJstyXWw) 提取码:whmt
 - [《机器学习实战 Hands on Maching Learning》Aurélien Géron](https://pan.baidu.com/s/1lQjZD6qvWwm2BiHrMopHfg) 提取码:178i
