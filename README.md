@@ -1,4 +1,4 @@
-### 收集了一些AI相关的入门资料，祝大家学习愉快（持续更新ing）
+### 收集了一些人工智能领域的经典入门资料，祝大家学习愉快（持续更新ing）
 
 ![](https://tva1.sinaimg.cn/large/0081Kckwly1glrcocuzgzj308a07ijvf.jpg)
 
