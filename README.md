@@ -1,8 +1,15 @@
 ### 收集了一些人工智能领域的经典入门资料，祝大家学习愉快（持续更新ing）
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1glrcocuzgzj308a07ijvf.jpg)
+- [机器学习基础](#ml)
+- [深度学习基础](#dl)
+- [计算机视觉](#cv)
+- [自然语言处理](#nlp)
+- [语音识别](#speech)
+- [图神经网络](#graph)
+- [推荐系统](#rs)
+- [面试资料](#interview)
 
-# 机器学习基础
+# <a id="ml"/>机器学习基础
 
 - [《PRML模式识别与机器学习》Christopher Bishop](https://pan.baidu.com/s/1ZA_rVnG22Yv-mrpLCNRqZg) 提取码:qmnh
 - [《机器学习》Tom M.Mitchell](https://pan.baidu.com/s/1Zh_psZz5uFlT9xLl-b9rwg) 提取码:1cur
@@ -15,7 +22,7 @@
 - [机器学习算法地图](https://pan.baidu.com/s/1XDbt5ts76RwsnduSA1Y-jA) 提取码:7jk0
 - [斯坦福机器学习课程 CS229 吴恩达](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=3818382633409058698)、[讲义](https://github.com/TheisTrue/MLofAndrew-Ng)、[笔记](https://pan.baidu.com/s/1rhK3VrJSXWo7qj_RXMXihQ) 提取码:rq93
 
-# 深度学习基础
+# <a id="dl"/>深度学习基础
 
 - [《深度学习》花书 Ian Goodfellow/Yoshua Bengio/Aaron Courville](https://pan.baidu.com/s/1NT5L00rvGtKg9BPmEYg3Xg) 提取码:wbm7
 - [《神经网络与深度学习》Michael Nielsen](https://pan.baidu.com/s/1zRmyR9Yy2FVcUgq9-VauIA) 提取码:q1lp
@@ -25,23 +32,23 @@
 - [斯坦福深度学习课程 CS230 吴恩达](https://www.bilibili.com/video/BV1p7411Y7M8?from=search&seid=15858260431540984302)
 - [台湾大学深度学习课程 李宏毅](https://www.bilibili.com/video/BV1JE411g7XF?from=search&seid=15830488177859710366)
 
-# 计算机视觉
+# <a id="cv"/>计算机视觉
 
 - [斯坦福计算机视觉课程 CS231n 李飞飞](https://www.bilibili.com/video/BV1nJ411z7fe?from=search&seid=4849356188203058857)
 - [北邮结算及视觉与深度学习 鲁鹏](https://www.bilibili.com/video/BV1V54y1B7K3?from=search&seid=4849356188203058857)
 
-# 自然语言处理
+# <a id="nlp"/>自然语言处理
 
 - [《统计自然语言处理》宗成庆](https://pan.baidu.com/s/10W_ebygrvXrq4AIiFWg3) 提取码:70k5
 - [《Python自然语言处理》](https://pan.baidu.com/s/13Xy4LJATDZlAV4iqAj4cbw) 提取码:4abc
 - [斯坦福自然语言处理课程 CS224n Christopher Manning](https://www.bilibili.com/video/BV1pt411h7aT?from=search&seid=335450819919994778)
 - [台湾大学自然语言处理课程 李宏毅](https://www.bilibili.com/video/BV1wE411W7TV?from=search&seid=335450819919994778)
 
-# 语音识别
+# <a id="speech"/>语音识别
 
 - [台湾大学深度学习语音识别课程 李宏毅](https://www.bilibili.com/video/BV1BE411p7wY?from=search&seid=15570127191290897018)
 
-# 图神经网络
+# <a id="graph"/>图神经网络
 
 - [《Deep Learning on Graphs》](http://cse.msu.edu/~mayao4/dlg_book/)
 - [《Graph Representation Learning》](https://www.cs.mcgill.ca/~wlh/grl_book/)
@@ -51,13 +58,13 @@
 - 《深入浅出图神经网络：GNN原理解析》刘忠雨/李彦霖/周洋
 - [宾大GNN课程 Alejandro Ribeiro](https://www.bilibili.com/video/av457264185/)
 
-# 推荐系统
+# <a id="rs"/>推荐系统
 
 - [《集体智慧编程 Toby Segaran](https://pan.baidu.com/s/1JuQ2cYpMM8XqrcLlidMipA) 提取码:k7f4
 - 《推荐系统实践》项亮
 - 《深度学习推荐系统》王喆
 
-# 面试资料
+# <a id="interview"/>面试资料
 
 - [《百面机器学习：算法工程师带你去面试 诸葛越/葫芦娃](https://pan.baidu.com/s/1HpFw-JbEZH8ovs4LcYSX8A) 提取码:bbl5
 - [《剑指offer 名企面试官精讲典型编程题 何海涛](https://pan.baidu.com/s/1p6kBS8Q5zkndInhMBGSyrg) 提取码:302g
@@ -65,7 +72,7 @@
 
 # 介绍下自己
 
-我叫rumor，是一个做AI的妹子，主业是NLP，目前想学CV以及各种。平常会在[知乎](https://www.zhihu.com/people/rumor-lee)/微信上分享AI干货和好玩的日常，欢迎关注我，带你学习带你肝，一起在人工智能时代旋转跳跃眨巴眼～
+我叫rumor，是一个做AI的妹子，主业是NLP，目前想学CV以及各种。平常会在[知乎](https://www.zhihu.com/people/rumor-lee)/微信上分享AI干货和好玩的日常，欢迎关注我的公众号「李rumor」，带你学习带你肝，一起在人工智能时代旋转跳跃眨巴眼～
 
 ![](https://tva1.sinaimg.cn/large/0081Kckwly1glr9p8vne8j3076076q3e.jpg)
 
